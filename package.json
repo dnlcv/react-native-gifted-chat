@@ -106,6 +106,7 @@
     "react-native-iphone-x-helper": "^1.2.0",
     "react-native-lightbox": "^0.8.1",
     "react-native-parsed-text": "https://github.com/EvanBacon/react-native-parsed-text.git",
+    "react-native-video": "^4.4.5",
     "uuid": "3.3.3"
   },
   "peerDependencies": {
